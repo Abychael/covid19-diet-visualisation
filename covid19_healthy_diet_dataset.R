@@ -4,6 +4,7 @@ library(tidyverse)
 df_food <- read_csv("C:/Users/Abby Bett/Downloads/archive/Food_Supply_Quantity_kg_Data.csv")
 
 
+
 glimpse(df_food)
 
 
